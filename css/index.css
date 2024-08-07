@@ -1,0 +1,31 @@
+@media only screen and (min-width: 400px) {
+
+    body {
+        background-color: white;
+    }
+    
+    h1 {
+        color: black;
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        margin-top: 20px;
+        text-align: center;
+    }
+    
+    .footer {
+        position: fixed;
+        list-style-type: none;
+        left: 0;
+        bottom: 0;
+        width: 100%;
+        background-color: black;
+    }
+    
+    #col-0 li {
+        margin-right: 20px;
+        float: right;
+        font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+        color: white;
+        text-align: left;
+        text-decoration: none;
+    }
+    }
